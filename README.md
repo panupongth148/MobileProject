@@ -4,7 +4,7 @@
 
 ## installation
 
-1. 
+1. download at this *[TiangPrompt_code.zip](https://github.com/panupongth148/MobileProject/releases/tag/demo)*
 2. download nodejs at *[node js download](https://nodejs.org/en/)* (recommended LST version)
 3. open commmand prompt and change directory to located your file download
 4. use command ``` npm i ``` and wait until download module successful
