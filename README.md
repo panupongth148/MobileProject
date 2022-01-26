@@ -11,3 +11,7 @@
 5. after untildownload module success use command ``` expo start ```
 6. after program open metro bundler, click run in web browser
 7. wait until program open new tab and program has stated
+
+## issue
+
+1. cannot open on android simulator ios simulator and expo app
