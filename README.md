@@ -10,7 +10,7 @@
 2. download nodejs at *[node js download](https://nodejs.org/en/)* (recommended LST version)
 3. open commmand prompt and change directory to located your file download
 4. use command ``` npm i ``` and wait until download module successfully
-5. after untildownload module success use command ``` expo start ```
+5. after until download module success, use command ``` expo start ```
 6. after program open metro bundler, click run in web browser
 7. wait until program open new tab and program has stated
 
