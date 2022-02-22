@@ -18,8 +18,8 @@
 
 ## Username and password Role User
 ### Role Patient
-   username : test002
-   password : password
+* username : test002
+* password : password
 ## issue
 
 1. cannot open on android simulator ios simulator and expo app
