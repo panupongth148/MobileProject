@@ -16,10 +16,17 @@
 
 ** if node module is not useful please delete old node module and download at this *[node module](https://drive.google.com/file/d/1FdtqZJhUgFtvxIBjB8vkNn5yCtp9Qssc/view?usp=sharing)* **
 
-## Username and password Role User
+## Username and password for login Role User
 ### Role Patient
 * username : test002
 * password : password
+### Role Nurse
+* username : nurse001
+* password : password
+### Role Doctor
+* username : peter001
+* password : password
+* 
 ## issue
 
 1. cannot open on android simulator ios simulator and expo app
