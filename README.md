@@ -18,14 +18,14 @@
 
 ## Username and password for login Role User
 ### Role Patient
-* username : test002
-* password : password
+* Username : test002
+* Password : password
 ### Role Nurse
-* username : nurse001
-* password : password
+* Username : nurse001
+* Password : password
 ### Role Doctor
-* username : peter001
-* password : password
+* Username : peter001
+* Password : password
 * 
 ## issue
 
